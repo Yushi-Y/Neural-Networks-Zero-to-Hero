@@ -8,5 +8,5 @@ The course "Neural Networks: Zero to Hero" by Andrej Karpathy
 4. [makemore-Part3-BatchNorm](https://github.com/Yushi-Y/Neural-Networks-Zero-to-Hero/blob/main/makemore_part3_batchnorm.ipynb): Explore the internals of MLPs with multiple layers and examine the statistics of forward pass activations, backward pass gradients, and some pitfalls when they are scaled incorrectly. Introduce Batch Normalization.
 
 Source code:
-- [micrograd](https://github.com/karpathy/micrograd)
-- [makemore](https://github.com/karpathy/makemore)
+- [The micrograd repo](https://github.com/karpathy/micrograd)
+- [The makemore repo](https://github.com/karpathy/makemore)
